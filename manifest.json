@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Retro Snake",
+  "version": "1.0",
+  "description": "A retro snake game built with Pyxel",
+  "browser_action": {
+    "default_popup": "snake.html",
+    "default_title": "Retro Snake"
+  },
+  "icons": {
+    "128": "snake_icon.png"
+  }
+}
